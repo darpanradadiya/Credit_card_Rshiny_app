@@ -120,11 +120,6 @@ This R Shiny application performs customer segmentation analysis on credit card
 
 *Insight:* A tabular view of the **top 10 customers** and **merchants**, essential for recognizing VIP clients and optimizing retailer relationships.\*
 
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
